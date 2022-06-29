@@ -4,4 +4,14 @@
   <artifactId>sies</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SIES</name>
+  <build>
+  <plugins>
+  <plugin>
+  	<configuration>	  
+              <source>1.8</source>
+              <target>1.8</target>
+    </configuration>
+  </plugin>
+  </plugins>
+  </build>
 </project>
