@@ -4,6 +4,7 @@
   <artifactId>sies</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SIES</name>
+  <packaging>jar</packaging>
   <build>
   <plugins>
     <plugin>
